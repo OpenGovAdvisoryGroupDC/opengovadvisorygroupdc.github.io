@@ -1,0 +1,8 @@
+title: "Open Government Advisory Group"
+repo: "https://github.com/opengovadvisorygroupdc/opengovadvisorygroupdc.github.io"
+
+markdown: kramdown
+
+collections:
+    staticpages:
+        output: true
