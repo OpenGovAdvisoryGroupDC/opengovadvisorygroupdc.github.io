@@ -1,1 +1,46 @@
-../assets/data/members.yml
+- name:  Rob Mancini
+  affiliation: Chief Technology Officer, OCTO
+
+- name:  Dervel Reed
+  affiliation: OCTO Chief Data Officer
+
+- name:  Robert Becker
+  affiliation: Attorney/Board Member of D.C. Open Government Coalition
+
+- name:  Justin Grimes
+  affiliation: Code for DC Co-Founder
+  github: justgrimes
+
+- name:  Kathryn Pettit 
+  affiliation: Urban Institute Policy Researcher
+
+- name:  Traci Hughes 
+  affiliation: Director, Office of Open Government, Board of Ethics and Government Accountability
+
+- name:  David Zvenyach 
+  affiliation: General Counsel to the Council of the District of Columbia
+  github: vzvenyach
+
+- name:  Ayesha Abbasi
+  affiliation: representative of Deputy Mayor for Planning and Economic Development
+
+- name:  Scott Burrell
+  affiliation: representative of Office of the City Administrator
+
+- name:  Jennifer Comey
+  affiliation: representative of Office of the Deputy Mayor for Education
+
+- name:  Brian Flowers
+  affiliation: Executive Office of the Mayor General Counsel
+
+- name:  Rachel Joseph
+  affiliation: representative of Office of the Deputy Mayor for Health and Human Services
+
+- name:  Ariel B. Levinson-Waldman
+  affiliation: representative of Office of the Attorney General 
+
+- name:  Treva Saunders
+  affiliation: representative of Office of the Chief Financial Officer
+
+- name:  Keith St. Clair
+  affiliation: representative of Office of the Deputy Mayor for Public Safety and Justice
