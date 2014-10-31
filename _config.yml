@@ -6,3 +6,6 @@ markdown: kramdown
 collections:
     staticpages:
         output: true
+    documents:
+        output: true
+        permalink: /documents/:path/
