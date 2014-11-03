@@ -1,6 +1,6 @@
 ---
 title: Mayor's Order 
-base: default
+layout: default
 ---
 
 **GOVERNMENT OF THE DISTRICT OF COLUMBIA**<br>
