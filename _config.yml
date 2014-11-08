@@ -6,6 +6,9 @@ markdown: kramdown
 collections:
     staticpages:
         output: true
+    meetings:
+        output: true
+        permalink: /meetings/:path/
     documents:
         output: true
         permalink: /documents/:path/

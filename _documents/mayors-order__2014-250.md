@@ -1,5 +1,5 @@
 ---
-title: Mayor's Order 
+title: Mayor's Order
 layout: default
 ---
 
